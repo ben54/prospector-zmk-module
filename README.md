@@ -78,3 +78,5 @@ CONFIG_PROSPECTOR_FIXED_BRIGHTNESS=80
 | `CONFIG_PROSPECTOR_FIXED_BRIGHTESS`               | Set fixed display brightess when not using ambient light sensor           | 50 (1-100)   |
 | `CONFIG_PROSPECTOR_PROSPECTOR_ROTATE_DISPLAY_180` | Rotate the display 180 degrees                                            | n            |
 | `CONFIG_PROSPECTOR_LAYER_ROLLER_ALL_CAPS`         | Convert layer names to all caps                                           | n            |
+
+Test
